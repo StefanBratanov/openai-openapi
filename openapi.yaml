@@ -12550,7 +12550,6 @@ components:
                     example: "gpt-4o"
                     anyOf:
                         - type: string
-                        - type: string
                           enum:
                               [
                                   "gpt-4o",
